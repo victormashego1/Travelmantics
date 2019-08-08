@@ -20,7 +20,7 @@
 bin/
 generated/
 out/
-
+google-services.json
 
 # Log Files
 *.log
